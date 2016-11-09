@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Lora);
+body{
+    text-align: center;
+    font-family: 'Lora', serif;
+    background: #e5e5e5 url(../../images/bg_tiles.jpg);
+}
+
+header {
+    margin-top: 5%;
+}
+.myStyle{
+    background-color: #FFF;
+    margin-top: 5%;
+    padding:15px 45px 25px 45px;
+    border-radius:5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.myStyle2{
+    float: right; margin-top: 8%;
+}
